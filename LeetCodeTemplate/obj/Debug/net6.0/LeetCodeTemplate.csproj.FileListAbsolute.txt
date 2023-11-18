@@ -1,0 +1,14 @@
+C:\Users\SeanL\source\repos\LeetCode_Csharp_Template\LeetCodeTemplate\bin\Debug\net6.0\LeetCodeTemplate.exe
+C:\Users\SeanL\source\repos\LeetCode_Csharp_Template\LeetCodeTemplate\bin\Debug\net6.0\LeetCodeTemplate.deps.json
+C:\Users\SeanL\source\repos\LeetCode_Csharp_Template\LeetCodeTemplate\bin\Debug\net6.0\LeetCodeTemplate.runtimeconfig.json
+C:\Users\SeanL\source\repos\LeetCode_Csharp_Template\LeetCodeTemplate\bin\Debug\net6.0\LeetCodeTemplate.dll
+C:\Users\SeanL\source\repos\LeetCode_Csharp_Template\LeetCodeTemplate\bin\Debug\net6.0\LeetCodeTemplate.pdb
+C:\Users\SeanL\source\repos\LeetCode_Csharp_Template\LeetCodeTemplate\obj\Debug\net6.0\LeetCodeTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SeanL\source\repos\LeetCode_Csharp_Template\LeetCodeTemplate\obj\Debug\net6.0\LeetCodeTemplate.AssemblyInfoInputs.cache
+C:\Users\SeanL\source\repos\LeetCode_Csharp_Template\LeetCodeTemplate\obj\Debug\net6.0\LeetCodeTemplate.AssemblyInfo.cs
+C:\Users\SeanL\source\repos\LeetCode_Csharp_Template\LeetCodeTemplate\obj\Debug\net6.0\LeetCodeTemplate.csproj.CoreCompileInputs.cache
+C:\Users\SeanL\source\repos\LeetCode_Csharp_Template\LeetCodeTemplate\obj\Debug\net6.0\LeetCodeTemplate.dll
+C:\Users\SeanL\source\repos\LeetCode_Csharp_Template\LeetCodeTemplate\obj\Debug\net6.0\refint\LeetCodeTemplate.dll
+C:\Users\SeanL\source\repos\LeetCode_Csharp_Template\LeetCodeTemplate\obj\Debug\net6.0\LeetCodeTemplate.pdb
+C:\Users\SeanL\source\repos\LeetCode_Csharp_Template\LeetCodeTemplate\obj\Debug\net6.0\LeetCodeTemplate.genruntimeconfig.cache
+C:\Users\SeanL\source\repos\LeetCode_Csharp_Template\LeetCodeTemplate\obj\Debug\net6.0\ref\LeetCodeTemplate.dll
