@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/LeetCodeTemplate/.vs/LeetCodeTemplate/FileContentIndex
+*.v2
+/UnitTests/bin/Debug/net6.0/LeetCodeTemplate.dll
+/UnitTests/bin/Debug/net6.0/LeetCodeTemplate.pdb
+/UnitTests/bin/Debug/net6.0/UnitTests.dll
+/UnitTests/bin/Debug/net6.0/UnitTests.pdb
+/UnitTests/obj/Debug/net6.0/ref/UnitTests.dll
+/UnitTests/obj/Debug/net6.0/refint/UnitTests.dll
+/UnitTests/obj/Debug/net6.0/UnitTests.csproj.AssemblyReference.cache
+/UnitTests/obj/Debug/net6.0/UnitTests.dll
+/UnitTests/obj/Debug/net6.0/UnitTests.pdb
