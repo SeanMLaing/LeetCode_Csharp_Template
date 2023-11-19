@@ -11,10 +11,37 @@ namespace UnitTests
         [TestMethod]
         public void TestMethod1()
         {
-            int i = 0;
-            int result = LeetCodeTemplate.Problem(i);
+            string input = "Hello World";
+            int result = LeetCodeTemplate.Problem(input);
 
-            Assert.AreEqual(i, result);
+            Assert.AreEqual(5, result);
         }
+
+
+
+
+
+
+        [TestMethod]
+        public void TestMethod2()
+        {
+            string input = "luffy is still joyboy";
+            int result = LeetCodeTemplate.Problem(input);
+
+            Assert.AreEqual(6, result);
+        }
+
+
+
+
+        [TestMethod]
+        public void TestMethod3()
+        {
+            string input = "   fly me   to   the moon  ";
+            int result = LeetCodeTemplate.Problem(input);
+
+            Assert.AreEqual(4, result);
+        }
+
     }
 }
