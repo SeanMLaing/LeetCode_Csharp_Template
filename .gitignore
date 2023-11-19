@@ -397,3 +397,5 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 /LeetCodeTemplate/.vs/LeetCodeTemplate/v17/.suo
+/UnitTests/obj/Debug/net6.0/UnitTests.csproj.AssemblyReference.cache
+/UnitTests/obj/Debug/net6.0/UnitTests.csproj.FileListAbsolute.txt
